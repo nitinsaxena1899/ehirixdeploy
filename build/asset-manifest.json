@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "./static/css/main.2a91d3fa.css",
-    "main.js": "./static/js/main.675105d8.js",
+    "main.css": "./static/css/main.a6d8e6e3.css",
+    "main.js": "./static/js/main.2fc70c45.js",
     "static/js/787.7c263352.chunk.js": "./static/js/787.7c263352.chunk.js",
     "static/media/brand.jpg": "./static/media/brand.9f5c76197a3be708c713.jpg",
     "static/media/services.jpg": "./static/media/services.113cacc852610ce6fb31.jpg",
     "static/media/homeGraphic.jpg": "./static/media/homeGraphic.dd03c9457f3cab07f063.jpg",
+    "static/media/Checklist.jpg": "./static/media/Checklist.6badb99b043ed46c126b.jpg",
     "static/media/aboutus.jpg": "./static/media/aboutus.82608777656420cc855b.jpg",
     "static/media/listingSetup.jpg": "./static/media/listingSetup.4e0d6b3eb30d982c0043.jpg",
     "static/media/website.jpg": "./static/media/website.0d839a5acbd31eddfd9b.jpg",
@@ -23,12 +24,12 @@
     "static/media/softwareicon.png": "./static/media/softwareicon.e2249c9b65ebf65964e7.png",
     "static/media/digitalofficericon.png": "./static/media/digitalofficericon.d57f01e2482b19e0e2f6.png",
     "index.html": "./index.html",
-    "main.2a91d3fa.css.map": "./static/css/main.2a91d3fa.css.map",
-    "main.675105d8.js.map": "./static/js/main.675105d8.js.map",
+    "main.a6d8e6e3.css.map": "./static/css/main.a6d8e6e3.css.map",
+    "main.2fc70c45.js.map": "./static/js/main.2fc70c45.js.map",
     "787.7c263352.chunk.js.map": "./static/js/787.7c263352.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a91d3fa.css",
-    "static/js/main.675105d8.js"
+    "static/css/main.a6d8e6e3.css",
+    "static/js/main.2fc70c45.js"
   ]
 }
